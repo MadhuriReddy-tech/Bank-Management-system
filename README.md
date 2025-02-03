@@ -1,0 +1,2 @@
+A "Bank Management System in C" is a computer program developed using the C programming language, designed to electronically manage and record all banking transactions related to customer accounts, including opening new accounts, depositing money, withdrawing funds, checking balances, and updating account details, essentially simulating a basic banking system through a command-line interface, typically utilizing file handling techniques to store customer data persistently. 
+![image](https://github.com/user-attachments/assets/974ba2f6-a046-4ed7-99a4-c3aa27f2938c)
